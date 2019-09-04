@@ -1,0 +1,35 @@
+@font-face {
+  font-family: 'Function Regular';
+  src: url('Function Regular.eot');
+  src: url('Function Regular.woff2') format('woff2'),
+       url('Function Regular.eot') format('embedded-opentype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Function-Regular';
+  src: url('Function-Regular.woff') format('woff'),
+       url('Function-Regular.ttf') format('truetype'),
+       url('Function-Regular.svg') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Function Bold';
+  src: url('Function Bold.eot');
+  src: url('Function Bold.woff2') format('woff2'),
+       url('Function Bold.eot?#iefix') format('embedded-opentype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Function-Bold';
+  src: url('Function-Bold.woff') format('woff'),
+       url('Function-Bold.ttf') format('truetype'),
+       url('Function-Bold.svg') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
